@@ -8,5 +8,5 @@ address
 tel
 mail
 del_flag
-re_date
+reg_date
 }
